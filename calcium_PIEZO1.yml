@@ -1,0 +1,19 @@
+name: calcium_yoda
+
+channels:
+- conda-forge
+- defaults
+
+dependencies:
+- jupyterlab
+- pandas
+- xlrd
+- numpy
+- scipy
+- scikit-learn 
+- statsmodels
+- matplotlib
+- tqdm
+- nodejs
+- ipywidgets
+

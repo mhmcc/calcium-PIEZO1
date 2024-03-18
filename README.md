@@ -19,7 +19,7 @@ conda env create -f calcium_PIEZO1.yml
 1. Run all cells in order.
 
 ## Data availability
-The data for this project are available for download at: \[TBA on publication\]
+Please refer to our published article for information on how to download the data.
 
 ## References
 Please see the companion paper linked above for details of the methods and packages used in this code.

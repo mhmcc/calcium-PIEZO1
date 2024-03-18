@@ -1,7 +1,7 @@
 # calcium-PIEZO1
 Jupyter notebook and Python code for the analysis of calcium influx in MCF-7 breast cancer cells via the PIEZO1 ion channel with varying cell morphology, as published in:
 
-> \[TBA on publication\]
+> \[See subsequent release "As published"\]
 
 ## Overview
 This repository contains:
@@ -27,7 +27,7 @@ Please see the companion paper linked above for details of the methods and packa
 ## Citing this code
 If you use or adapt our code or methods in your research, please cite the companion paper linked above or as shown here in BibTeX format:
 ```
-\[TBA on publication\]
+\[See subsequent release "As published"\]
 ```
 
 ## Questions

@@ -1,7 +1,7 @@
 # calcium-PIEZO1
 Jupyter notebook and Python code for the analysis of calcium influx in MCF-7 breast cancer cells via the PIEZO1 ion channel with varying cell morphology, as published in:
 
-> \[See subsequent release "As published"\]
+> So, C.L., Robitaille, M., Sadras, F. et al. Cellular geometry and epithelial-mesenchymal plasticity intersect with PIEZO1 in breast cancer cells. Commun Biol 7, 467 (2024). https://doi.org/10.1038/s42003-024-06163-z
 
 ## Overview
 This repository contains:
@@ -27,7 +27,16 @@ Please see the companion paper linked above for details of the methods and packa
 ## Citing this code
 If you use or adapt our code or methods in your research, please cite the companion paper linked above or as shown here in BibTeX format:
 ```
-\[See subsequent release "As published"\]
+@article{so2024cellular,
+  title={Cellular geometry and epithelial-mesenchymal plasticity intersect with PIEZO1 in breast cancer cells},
+  author={So, Choon Leng and Robitaille, M{\'e}lanie and Sadras, Francisco and McCullough, Michael H and Milevskiy, Michael JG and Goodhill, Geoffrey J and Roberts-Thomson, Sarah J and Monteith, Gregory R},
+  journal={Communications Biology},
+  volume={7},
+  number={1},
+  pages={467},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
 ```
 
 ## Questions

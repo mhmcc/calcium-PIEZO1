@@ -38,6 +38,9 @@ If you use or adapt our code or methods in your research, please cite the compan
   publisher={Nature Publishing Group UK London}
 }
 ```
+This repository was archived on Zenodo upon acceptance for publication:
+
+[![DOI](https://zenodo.org/badge/728922855.svg)](https://zenodo.org/doi/10.5281/zenodo.10828299)
 
 ## Questions
 Please email michael.mccullough@anu.edu.au if you have questions about the code.
